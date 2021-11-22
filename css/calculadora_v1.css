@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@300&display=swap');
+
+.calculadora{
+    position: absolute;
+    background-color:rgba(0, 0, 0, 1);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+input{
+    color: #fff;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Yaldevi', sans-serif;
+    border-radius: 25%;
+}
+
+.num{
+    width: 64px;
+    height: 67px;
+}
+
+.text{
+    width: 190px;
+    height: 64px;
+    border-radius: 15px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1{
+    width: 67px;
+    height: 64px;
+    border-radius: 25%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main-calc{
+    display: inline-block;
+}
+
+.maincolor{
+    background-color: #000;
+}
+
+.blue{
+    background-color: #0cd0cd;
+}
+
+.pin{
+    background-color: #cf1596;
+}
+
+.gre{
+    background-color: #aad800;
+}
+
+.ora{
+    background-color: #fcb707;
+}

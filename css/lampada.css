@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-lampada {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-lampada {
+    height: 30px; 
+    width: 100px;  
+    position: relative;
+    left: 35%;
+    border-radius: revert;
+}
