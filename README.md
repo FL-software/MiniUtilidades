@@ -1,6 +1,6 @@
 # Mini Utilidades
 
-Neste projeto realizamos a criação de vários projetos simples e posteriormente unir-lo em um dashboard customizado.
+Neste projeto realizamos a criação de vários projetos simples e unidos em um dashboard customizado.
 
 Projetos:
 
